@@ -8,6 +8,8 @@ Oyun hikayesini detaylıca okumak için [itch.io](https://13fps.itch.io/oua-grup
 Proje başlangıcında ana mekanikler basit küpler ve küreler ile gerçekleştirildi ve sonrasında lowpoly modellere geçiş yapıldı.
 Bu yüzden birbirine benzer birkaç script ile karşılaşbilirsiniz.
 
+Ana karakter ve bilim adamı modeller Blender üzerinden modellenmiştir.
+
 Kullanılan assetlerin linkleri:
 
 Ui tasarımı için -->https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606                        
