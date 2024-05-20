@@ -14,4 +14,5 @@ Kullanılan assetlerin linkleri:
 
 Ui tasarımı için -->https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606                        
 Düşman karakter modelleri için --> https://assetstore.unity.com/packages/3d/characters/city-people-lite-260446                 
-Ses efektleri için -->https://shapeforms.itch.io/shapeforms-audio-free-sfx
+Ses efektleri için -->https://shapeforms.itch.io/shapeforms-audio-free-sfx                
+Çevre tasarımı modelleri için --> https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
