@@ -1,0 +1,29 @@
+-------------------
+Folder Name: Prefabs
+-------------------
+Prefab Name: SM_Wep_Watergun_01
+    Mesh Name: SM_Wep_Watergun_01
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+    Mesh Name: Watergun_01_Pump
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+    Mesh Name: Watergun_01_Refill
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+    Mesh Name: Watergun_01_Trigger
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+
+Prefab Name: SM_Wep_Watergun_02
+    Mesh Name: SM_Wep_Watergun_02
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+    Mesh Name: Watergun_02_Pump
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+    Mesh Name: Watergun_02_Refill
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+    Mesh Name: Watergun_02_Trigger
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+
+Prefab Name: SM_Wep_WaterPistol_01
+    Mesh Name: SM_Wep_WaterPistol_01
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+    Mesh Name: WaterPistol_01_Trigger
+        Slot: Polygon_WaterGuns_Mat_01 (Polygon_Texture_01_A)
+
